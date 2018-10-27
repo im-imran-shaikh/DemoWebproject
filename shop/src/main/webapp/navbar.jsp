@@ -16,7 +16,7 @@
               <a class="nav-link" href="#">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Services</a>
+              <a class="nav-link" href="feedbackViews.jsp">feedback</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.jsp">Contact</a>
