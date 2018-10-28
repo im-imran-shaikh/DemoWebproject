@@ -13,7 +13,10 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="login.jsp">login</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="signup.jsp">signup</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="feedbackView.jsp">feedback</a>
