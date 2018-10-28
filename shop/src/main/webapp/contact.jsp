@@ -21,7 +21,7 @@
 				<option value="australia">Australia</option>
 				<option value="canada">Canada</option>
 				<option value="usa">USA</option>
-				<option value="usa">India</option>
+				<option value="india">India</option>
 			</select> <label for="subject">Message</label>
 			<textarea id="subject" name="message" placeholder="Write something.."
 				style="height: 200px"></textarea>

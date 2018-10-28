@@ -1,5 +1,5 @@
 <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
+     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
         <a class="navbar-brand" href="#">Start Bootstrap</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,7 +16,7 @@
               <a class="nav-link" href="#">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="feedbackViews.jsp">feedback</a>
+              <a class="nav-link" href="feedbackView.jsp">feedback</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.jsp">Contact</a>
